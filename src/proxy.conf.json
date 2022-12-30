@@ -1,0 +1,7 @@
+{
+  "/": {
+    "target": "https://api.openai.com/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
